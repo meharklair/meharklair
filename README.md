@@ -2,7 +2,7 @@
 ## STATS ( •̀ᴗ•́ )و ̑̑
 <div align="Left">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meharklair&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meharklair&show_icons=true&theme=catppuccin_mocha)
   
 </div>
 
