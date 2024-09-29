@@ -8,7 +8,6 @@
 </div>
 
 ###
-![Fast Cat Cat Excited Sticker - Fast Cat Cat Excited Jumping - Descobrir e Compartilhar GIFs](https://github.com/user-attachments/assets/5c416d01-8071-483f-aeb5-7f628bf46268)
 
 ###
 
