@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/kitty-gif-16156810735961958287"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -36,11 +32,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/meharklair/meharklair/output/snake.svg" alt="Snake animation" />
-
-###
