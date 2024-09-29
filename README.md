@@ -1,7 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=673AB7&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=Hi+im+Mehar!!;Status:+Procrastinating+Assignments;Status:+Burning+down+JojaMart;Status:+Crying+over+privilege+escalation)](https://git.io/typing-svg)
 ## STATS ( •̀ᴗ•́ )و ̑̑
 <div align="center">
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meharklair)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ## TOOLS /ᐠ｡ꞈ｡ᐟ\
