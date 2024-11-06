@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=673AB7&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=Hi+im+Mehar!!;Status:+Procrastinating+Assignments;Status:+Burning+down+JojaMart;Status:+Crying+over+privilege+escalation)](https://git.io/typing-svg)
 ಠ_ಠ **ME**
 
-Hi I am a 3rd year computer science and I enjoy learning about offensive security and software devlopment.
+Hi I am a 3rd year computer science and I enjoy learning about offensive security and software development.
 
 ## STATS ( •̀ᴗ•́ )و ̑̑
 <div align="Left">
