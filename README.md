@@ -5,9 +5,9 @@ Hi I am a 4th year computer science student and I enjoy learning about offensive
 
 Current projects:
 
-- `🦈` **`Melinoe`**<br>
-\\___[ malware scanning tool.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Yara`, `Python`
+- `🦈` **`Research Assitant`**<br>
+\\___[ RAG AI research assistant.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `FastAPI`, `ElasticSearch`, `LangChain`, `ollama`
 
 - `🐋` **`Portfolio Website`**<br>
 \\___[ Showcasing some of my recent projects.<br>
