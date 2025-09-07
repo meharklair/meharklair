@@ -7,7 +7,7 @@ Current projects:
 
 - `🦈` **`Research Assitant`**<br>
 \\___[ RAG AI research assistant.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `FastAPI`, `ElasticSearch`, `LangChain`, `ollama`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `scikit-learn`, `ElasticSearch`, `LangChain`, `ollama`
 
 - `🐋` **`Portfolio Website`**<br>
 \\___[ Showcasing some of my recent projects.<br>
