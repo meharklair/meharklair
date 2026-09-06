@@ -5,9 +5,9 @@ Hi I am a 4th year computer science student and I like learning about machine le
 
 Current projects:
 
-- `🦈` **`Research Assitant`**<br>
-\\___[ RAG AI research assistant.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `scikit-learn`, `ElasticSearch`, `LangChain`, `ollama`
+- `🕸` **`Judgement Chain`**<br>
+\\___[ M365 device code phishing detector.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `scikit-learn`, `FastAPI`, `PostgreSQL`, `AWS`
 
 
 ## STATS ( •̀ᴗ•́ )و ̑̑
